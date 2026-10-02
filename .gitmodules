@@ -1,0 +1,3 @@
+[submodule "hosu"]
+	path = hosu
+	url = https://github.com/devparkminjae/hosu.git
